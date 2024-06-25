@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RestaurantWebsite.Services.AuthAPI.props" />
+</Project>

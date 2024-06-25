@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lzoC6ycXKPP4BGPEsmjVGk/w1u7KP7II+Y9I580UoO8=",
+  "Source": "RestaurantWebsite.Services.AuthAPI",
+  "BasePath": "_content/RestaurantWebsite.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

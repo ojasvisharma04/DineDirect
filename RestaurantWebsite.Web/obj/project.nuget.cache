@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GUODvQTT/tsX4evaXfUOgxKa7nO8fkuUBB3gc/Xdr16Gf1J7yXamWGQOn5RwKM01PJtreSYH839rH1BRh4Ft6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ojasv\\source\\repos\\RestaurantWebsite\\RestaurantWebsite.Web\\RestaurantWebsite.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ojasv\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "C:\\Users\\ojasv\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\ojasv\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "C:\\Users\\ojasv\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\ojasv\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ojasv\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
