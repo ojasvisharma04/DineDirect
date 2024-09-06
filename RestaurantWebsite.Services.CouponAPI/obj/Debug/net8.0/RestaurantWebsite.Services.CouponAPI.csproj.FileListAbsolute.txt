@@ -125,6 +125,7 @@ C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.CouponA
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.CouponAPI\obj\Debug\net8.0\RestaurantWebsite.Services.CouponAPI.csproj.CoreCompileInputs.cache
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.CouponAPI\obj\Debug\net8.0\RestaurantWebsite.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.CouponAPI\obj\Debug\net8.0\RestaurantWebsite.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.CouponAPI\obj\Debug\net8.0\RestaurantWebsite.Services.CouponAPI.sourcelink.json
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.CouponAPI\obj\Debug\net8.0\staticwebassets\msbuild.RestaurantWebsite.Services.CouponAPI.Microsoft.AspNetCore.StaticWebAssets.props

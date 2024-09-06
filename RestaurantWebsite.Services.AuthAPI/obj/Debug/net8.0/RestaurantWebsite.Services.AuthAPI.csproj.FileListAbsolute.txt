@@ -133,6 +133,7 @@ C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.AuthAPI
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.AuthAPI\obj\Debug\net8.0\RestaurantWebsite.Services.AuthAPI.csproj.CoreCompileInputs.cache
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.AuthAPI\obj\Debug\net8.0\RestaurantWebsite.Services.AuthAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.AuthAPI\obj\Debug\net8.0\RestaurantWebsite.Services.AuthAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.AuthAPI\obj\Debug\net8.0\RestaurantWebsite.Services.AuthAPI.sourcelink.json
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.AuthAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.AuthAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Services.AuthAPI\obj\Debug\net8.0\staticwebassets\msbuild.RestaurantWebsite.Services.AuthAPI.Microsoft.AspNetCore.StaticWebAssets.props

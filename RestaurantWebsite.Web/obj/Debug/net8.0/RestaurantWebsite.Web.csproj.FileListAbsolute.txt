@@ -20,6 +20,7 @@ C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Web\obj\Debug\ne
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Web\obj\Debug\net8.0\RestaurantWebsite.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Web\obj\Debug\net8.0\RestaurantWebsite.Web.RazorAssemblyInfo.cache
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Web\obj\Debug\net8.0\RestaurantWebsite.Web.RazorAssemblyInfo.cs
+C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Web\obj\Debug\net8.0\RestaurantWebsite.Web.sourcelink.json
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Web\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Web\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ojasv\source\repos\RestaurantWebsite\RestaurantWebsite.Web\obj\Debug\net8.0\staticwebassets\msbuild.RestaurantWebsite.Web.Microsoft.AspNetCore.StaticWebAssets.props
